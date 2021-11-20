@@ -6,7 +6,6 @@
     font-family: 'apple kid';
     src: url('../Fonts/curtain_call.woff') format('truetype');
 }
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel:wght@500&family=Kanit&family=Shippori+Antique&display=swap" rel="stylesheet">
 
 *{
     font-family:  'Cinzel', serif;
@@ -123,6 +122,11 @@ article p{
 }
 .images li img{
     max-width: 100%;
+}
+main p{
+    line-height: 2em;
+    color:rgb(31, 18, 20);
+    font-size: 20px;
 }
 
 .join{
